@@ -1,8 +1,6 @@
-<h3>Sobre mim</h3>
+[![card](https://github-readme-stats.vercel.app/api?username=edvxndxvi&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![edvxndxvi](https://github-readme-stats.vercel.app/api/top-langs/?username=edvxndxvi&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🤔 Entusiasta por tecnologia, buscando encontrar um caminho na programação.
-- 🎓 Estudante do curso técnico de **FULL-STACK** no <a href="https://www.sp.senac.br">SENAC</a> e futuro aluno da <a href="https://www.fiap.com.br">FIAP<a/> em **ADS**.
-- 💼 Trabalhando como **APRENDIZ EM SUPORTE DE TI** na <a href="https://br.gigroup.com">GI GROUP</a>
 <hr>
 
 <h3>Minhas Skills</h3>
@@ -30,5 +28,8 @@
 
 <hr>
 
-[![edvxndxvi](https://github-readme-stats.vercel.app/api/top-langs/?username=edvxndxvi&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api?username=edvxndxvi&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+<h3>Sobre mim</h3>
+
+- 🤔 Entusiasta por tecnologia, buscando encontrar um caminho na programação.
+- 🎓 Estudante do curso técnico de **FULL-STACK** no <a href="https://www.sp.senac.br">SENAC</a> e futuro aluno da <a href="https://www.fiap.com.br">FIAP<a/> em **ADS**.
+- 💼 Trabalhando como **APRENDIZ EM SUPORTE DE TI** na <a href="https://br.gigroup.com">GI GROUP</a>
