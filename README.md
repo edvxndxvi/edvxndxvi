@@ -31,5 +31,5 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Entusiasta por tecnologia, buscando encontrar um caminho na programação.
-- 🎓 Estudante do curso técnico de **FULL-STACK** no <a href="https://www.sp.senac.br">SENAC</a> e futuro aluno da <a href="https://www.fiap.com.br">FIAP<a/> em **ADS**.
+- 🎓 Certificado de desenvolvedor **FRONT-EN** e **BACK-EN** no curso técnico de **FULL-STACK** no <a href="https://www.sp.senac.br">SENAC</a> e aluno da <a href="https://www.fiap.com.br">FIAP<a/> em **ADS**.
 - 💼 Trabalhando como **APRENDIZ EM SUPORTE DE TI** na <a href="https://br.gigroup.com">GI GROUP</a>
