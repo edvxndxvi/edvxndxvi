@@ -34,4 +34,4 @@
 
 - 🤔 Entusiasta por tecnologia, buscando encontrar um caminho na programação.
 - 🎓 Certificado de desenvolvedor **FRONT-END** e **BACK-END** no curso técnico de **INFORMÁTICA PARA INTERNET** no <a href="https://www.sp.senac.br">SENAC</a> e aluno da <a href="https://www.fiap.com.br">FIAP<a/> em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS**.
-- 💼 Trabalhando como **SUPORTE DE TI** na <a href="https://br.gigroup.com">GI GROUP</a>
+- 💼 Trabalhando como **DEV FRONT-END** na <a href="https://blueshift.cc/">blueshift</a>
