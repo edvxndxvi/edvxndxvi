@@ -7,8 +7,14 @@
 
 I'm <b>Front-End Developer at <a href="https://blueshift.cc/">Blueshift</a></b> and a <b>Systems Analysis and Development student at <a href="https://www.fiap.com.br">FIAP</a></b>, always looking to improve and grow in the tech field.
 
-[![card](https://github-readme-stats.vercel.app/api?username=edvxndxvi&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![edvxndxvi](https://github-readme-stats.vercel.app/api/top-langs/?username=edvxndxvi&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+  
+  [![card](https://github-readme-stats.vercel.app/api?username=edvxndxvi&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+  [![edvxndxvi](https://github-readme-stats.vercel.app/api/top-langs/?username=edvxndxvi&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 
 <h2 align="center">Technologies</h2>
 
