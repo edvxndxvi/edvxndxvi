@@ -20,7 +20,7 @@ I'm <b>Front-End Developer at <a href="https://blueshift.cc/">Blueshift</a></b> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,sass,css,java,next,react,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,java,python" />
   </a>
 </p>
 
